@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>  
+<language cat="it">  
+    <lan id="1">  
+        <name>C#</name>  
+        <IDE>vs</IDE>  
+        <sex>woman</sex>
+        <age>17</age>
+    </lan>
+</language>  
